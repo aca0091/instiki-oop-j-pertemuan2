@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package pertemuan2;
 
 /**
  *
- * @author LAB F
+ * @author Ni Kadek Candra Dewi
+ * tgl : 11 Maret 2025 
  */
 public class Pertemuan2 {
 
@@ -14,7 +11,16 @@ public class Pertemuan2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        String nama = "Ni Kadek Candra Dewi";
+        String nim = "2301010091" ;
+        System.out.println("Pertemuan 2 Java");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("~!@#$%^&*()_+:<>?");
+        System.out.println("<3");
+        System.out.println("Nama Saya : "+nama);
+        System.out.println("NIM : "+nim);
+        System.out.printf("Nama Saya %s dengan NIM %s, saat ini sedang belajar pemrograman Java",nama,nim);
+       
     }
     
 }
